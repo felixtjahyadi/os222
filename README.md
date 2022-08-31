@@ -1,5 +1,6 @@
 # os222
-
+Hello there wanderer! You've finally awake! Welcome to my GitHub Page!
+<br><br>
 [GitHub Page] ---
 [TARBALL] ---
 [myLOG] ---
