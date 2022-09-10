@@ -2,7 +2,7 @@
 permalink: /LINKS/
 ---
 
-#Links that MAY help you!
+# Links that helped me and MAY help you!
 
 [One]
 
