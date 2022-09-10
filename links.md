@@ -1,5 +1,5 @@
 ---
-permalink: /LINKS/
+permalink: LINKS/
 ---
 
 # Links that helped me and MAY help you!
