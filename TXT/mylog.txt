@@ -9,6 +9,7 @@ ZCZC W00 50 L04 GitHub Pages related
 ZCZC W00 10 L05 QUIZ
 ZCZC W00 90 L09 Weekly Assignments
 ZCZC W00 400 L99 Face-to-face lecture
+
 ZCZC W01 100 L00 Gen, etc.
 ZCZC W01 200 L01 SCELE/Discord related
 ZCZC W01 500 L02 ZOOM meetings relates
@@ -17,6 +18,7 @@ ZCZC W01 15 L04 GitHub Pages related
 ZCZC W01 10 L05 QUIZ
 ZCZC W01 200 L09 Weekly Assignments
 ZCZC W01 400 L99 Face-toface lecture
+
 ZCZC W02 100 L00 Gen, etc.
 ZCZC W02 100 L01 SCELE/Discord related
 ZCZC W02 540 L02 ZOOM meetings relates
@@ -25,3 +27,13 @@ ZCZC W02 60 L04 GitHub Pages related
 ZCZC W02 10 L05 QUIZ
 ZCZC W02 90 L09 Weekly Assignments
 ZCZC W02 350 L99 Face-toface lecture
+
+ZCZC W03 220 L00 Gen, etc.
+ZCZC W03 240 L01 SCELE/Discord related
+ZCZC W03 400 L02 ZOOM meetings relates
+ZCZC W03 60 L03 GitHub related
+ZCZC W03 60 L04 GitHub Pages related
+ZCZC W03 10 L05 QUIZ
+ZCZC W03 60 L09 Weekly Assignments
+ZCZC W03 350 L99 Face-toface lecture
+
