@@ -55,3 +55,12 @@ ZCZC W05 10 L05 QUIZ
 ZCZC W05 90 L09 Weekly Assignments
 ZCZC W05 200 L99 Face-toface lecture
 
+ZCZC W06 150 L00 Gen, etc.
+ZCZC W06 100 L01 SCELE/Discord related
+ZCZC W06 250 L02 ZOOM meetings relates
+ZCZC W06 50 L03 GitHub related
+ZCZC W06 50 L04 GitHub Pages related
+ZCZC W06 05 L05 QUIZ
+ZCZC W06 60 L09 Weekly Assignments
+ZCZC W06 500 L99 Face-toface lecture
+
